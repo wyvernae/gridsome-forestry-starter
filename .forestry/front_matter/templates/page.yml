@@ -1,4 +1,17 @@
 ---
 label: Page
 hide_body: false
-fields: []
+fields:
+- name: food
+  type: text
+  config:
+    required: false
+  label: Food
+- name: myfood
+  type: blocks
+  template_types:
+  - food
+  config:
+    min: 
+    max: 
+  label: myFood
