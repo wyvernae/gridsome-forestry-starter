@@ -35,4 +35,5 @@ fields:
     labelField: 
   label: Food Item
 pages:
+- chicken.md
 - projects/food.md
