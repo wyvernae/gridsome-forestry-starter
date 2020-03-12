@@ -34,3 +34,5 @@ fields:
     max: 
     labelField: 
   label: Food Item
+pages:
+- projects/food.md
